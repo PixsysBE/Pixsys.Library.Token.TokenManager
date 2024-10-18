@@ -13,7 +13,7 @@ namespace Pixsys.Library.Token.TokenManager
     /// Manager to create tokens.
     /// </summary>
     [SuppressMessage("StyleCop.CSharp.SpacingRules", "SA1000:KeywordsMustBeSpacedCorrectly", Justification = "Reviewed.")]
-    public class TokenManager : ITokenManager
+    internal sealed class TokenManager : ITokenManager
     {
         private readonly Random random;
 

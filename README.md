@@ -14,7 +14,7 @@ using Pixsys.Library.Token.TokenManager;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.AddTokenManager();
+_ = builder.AddTokenManager();
 
 ```
 ## 2. Usage
