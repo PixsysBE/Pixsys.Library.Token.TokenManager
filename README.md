@@ -1,3 +1,4 @@
+[![Nuget](https://img.shields.io/nuget/v/Pixsys.Library.Token.TokenManager)](https://www.nuget.org/packages/Pixsys.Library.Token.TokenManager)
 
 # Token Manager
 
