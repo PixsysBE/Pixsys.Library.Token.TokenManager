@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Pixsys.Library.Token.TokenManager</id>
+    <title>Pixsys.Library.Token.TokenManager</title>
+    <description>Generate random or patterned strings depending on your preferences: with or without uppercase letters, lowercase letters, numbers and symbols.</description>
+    <authors>Sylvain Signore</authors>
+    <version>0.0.0.0</version>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/PixsysBE/Pixsys.Library.Token.TokenManager</projectUrl>
+  </metadata>
+  <files>
+    <file src="bin\Release\**\*.dll" target="lib" />
+    <file src="..\..\..\README.md" target="README.md" />
+  </files>
+</package>
