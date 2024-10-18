@@ -3,3 +3,4 @@
 /src/Pixsys.Library.Token.TokenManager/Pixsys.Library.Token.TokenManager/bin/
 /src/Pixsys.Library.Token.TokenManager/Pixsys.Library.Token.TokenManager/obj/
 /src/Pixsys.Library.Token.TokenManager/.config/CakeRelease.settings.json
+/src/Pixsys.Library.Token.TokenManager/.build/CakeRelease/Semantic/.releaserc.js
